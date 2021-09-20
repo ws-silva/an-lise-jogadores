@@ -9,4 +9,4 @@
 Esse projeto eu fiz no intuito de praticar e trazer uma visulização diferente com imganes e dados externos.
 
 # 📃dados
-link: <a href="  https://www.kaggle.com/patrasaurabh/csgo-player-and-team-stats">Base Counter strike</a>
+link: <a href="https://www.kaggle.com/patrasaurabh/csgo-player-and-team-stats">Base Counter strike</a>
