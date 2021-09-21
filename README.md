@@ -38,4 +38,15 @@ coluna 'rating': Se refere a uma estatística que ajuda medir a performance e re
 #### Top 5 de jogadores com os kd mais alto:
 <img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10kd.png">
 <br>
+#### Top 5 de jogadores com o kd diff mais alto:
+<img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10diff.png">
+<br>
+#### Top 5 de jogadores com o kd diff mais alto:
+<img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10diff.png">
+<br>
+#### Top 10 de jogadores com o rating mais alto:
+<img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10rating.png">
+<br>
+
+
 
