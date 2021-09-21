@@ -50,14 +50,14 @@ coluna 'rating': Se refere a uma estatística que ajuda medir a performance e re
 <h4>ogador destaque entre o top 10 de mais mapas jogados:</h4>
 
 <div style="font-size: 25px;">
-<p>nome: Marcelo David(coldzera)</p><br>
-<p>nick: coldzera</p><br>
-<p>mais mapas jogados: 3° lugar</p><br>
-<p>kd: 1° lugar</p><br>
-<p>kd diff: 1° lugar</p><br>
-<p>rating: 1° lugar</p><br>
-<p>hltv(perfil completo): <a href="https://www.hltv.org/player/9216/coldzera">hltv coldzera</a></p><br>
-<p>observação: 2 x Major winner(campeão mundial) e 2 x Major MVP(melhora jogador)</p><br>
+<p>nome: Marcelo David(coldzera)</p>
+<p>nick: coldzera</p>
+<p>mais mapas jogados: 3° lugar</p>
+<p>kd: 1° lugar</p>
+<p>kd diff: 1° lugar</p>
+<p>rating: 1° lugar</p>
+<p>hltv(perfil completo): <a href="https://www.hltv.org/player/9216/coldzera">hltv coldzera</a></p>
+<p>observação: 2 x Major winner(campeão mundial) e 2 x Major MVP(melhora jogador)</p>
 </div>
 
 <img style="width:700px;" src="img/faze-clan-coldzera-iem-katowice-2020.jpg">
