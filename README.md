@@ -1,5 +1,5 @@
 <h1 align="center">Análise de dados da CS-GO</h1>
-<p align="center">Nesse projeto análisei uma base de dados de pro playres de Counter Strike e busquei a avaliar os kd, kd diff e rating para trazer alguns jogadores destaque</p>
+<p align="center">Nesse projeto análisei uma base de dados de pro playres brasileiro de Counter Strike e busquei a avaliar os kd, kd diff e rating para trazer alguns jogadores destaque</p>
 <h1 align="center">
     <p align="center">🚀Linguagem usada no projeto</p>
      <a href="">🔗 Python</a>
@@ -30,3 +30,12 @@ coluna 'kd diff': Se refere diferença existente entre os abates e as mortes.
 coluna 'kd': Se refere a taxa Kills/Deaths (K/D)
 
 coluna 'rating': Se refere a uma estatística que ajuda medir a performance e resultados de jogadores
+<br>
+## Análise dos jogadores com mais mapas jogados
+#### Top 10 de jogadores com mais mapa jogados:
+<img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10.png">
+<br>
+#### Top 5 de jogadores com os kd mais alto:
+<img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10kd.png">
+
+
