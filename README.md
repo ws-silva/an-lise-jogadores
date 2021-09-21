@@ -77,12 +77,12 @@ coluna 'rating': Se refere a uma estatística que ajuda medir a performance e re
 
 
 <div style="font-size: 25px;">
-<p>nome: Rafael Costa(saffee)</p><br>
-<p>nick: saffee</p><br>
-<p>kd: 1° lugar</p><br>
-<p>rating: 1° lugar</p><br>
-<p>hltv(perfil completo): <a href="https://www.hltv.org/player/18835/saffee#tab-infoBox">hltv saffe</a></p><br>
-<p>observação: Jogador novo e sem muitos títitulos mas com números altos podendo ser uma grande promessa</p><br>
+<p>nome: Rafael Costa(saffee)</p>
+<p>nick: saffee</p>
+<p>kd: 1° lugar</p>
+<p>rating: 1° lugar</p>
+<p>hltv(perfil completo): <a href="https://www.hltv.org/player/18835/saffee#tab-infoBox">hltv saffe</a></p>
+<p>observação: Jogador novo e sem muitos títitulos mas com números altos podendo ser uma grande promessa</p>
 </div>
 
 <img style="width:400px" src="img/painsafe.jpg">
