@@ -32,19 +32,19 @@ coluna 'kd': Se refere a taxa Kills/Deaths (K/D)
 coluna 'rating': Se refere a uma estatística que ajuda medir a performance e resultados de jogadores
 <br>
 ## Análise dos jogadores com mais mapas jogados
-#### Top 10 de jogadores com mais mapas jogados:
+<h4>Top 10 de jogadores com mais mapas jogados:</h4>
 <img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10.png">
 <br>
-#### Top 5 de jogadores com os kd mais alto:
+<h4>Top 5 de jogadores com os kd mais alto:</h4>
 <img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10kd.png">
 <br>
-#### Top 5 de jogadores com o kd diff mais alto:
+<h4>Top 5 de jogadores com o kd diff mais alto:</h4>
 <img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10diff.png">
 <br>
-#### Top 5 de jogadores com o kd diff mais alto:
+<h4>Top 5 de jogadores com o kd diff mais alto:</h4>
 <img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10diff.png">
 <br>
-#### Top 10 de jogadores com o rating mais alto:
+<h4>Top 10 de jogadores com o rating mais alto:</h4>
 <img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10rating.png">
 <br>
 
