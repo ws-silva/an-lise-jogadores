@@ -47,6 +47,18 @@ coluna 'rating': Se refere a uma estatística que ajuda medir a performance e re
 <h4>Top 10 de jogadores com o rating mais alto:</h4>
 <img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10rating.png">
 <br>
+<h4>ogador destaque entre o top 10 de mais mapas jogados:</h4>
 
+<div style="font-size: 25px;">
+<p>nome: Marcelo David(coldzera)</p><br>
+<p>nick: coldzera</p><br>
+<p>mais mapas jogados: 3° lugar</p><br>
+<p>kd: 1° lugar</p><br>
+<p>kd diff: 1° lugar</p><br>
+<p>rating: 1° lugar</p><br>
+<p>hltv(perfil completo): <a href="https://www.hltv.org/player/9216/coldzera">hltv coldzera</a></p><br>
+<p>observação: 2 x Major winner(campeão mundial) e 2 x Major MVP(melhora jogador)</p><br>
+</div>
 
+<img style="width:700px;" src="img/faze-clan-coldzera-iem-katowice-2020.jpg">
 
