@@ -47,7 +47,7 @@ coluna 'rating': Se refere a uma estatística que ajuda medir a performance e re
 <h4>Top 10 de jogadores com o rating mais alto:</h4>
 <img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/graftop10rating.png">
 <br>
-<h4>ogador destaque entre o top 10 de mais mapas jogados:</h4>
+<h4>Jogador destaque entre o top 10 de mais mapas jogados:</h4>
 
 <div style="font-size: 25px;">
 <p>nome: Marcelo David(coldzera)</p>
@@ -61,4 +61,28 @@ coluna 'rating': Se refere a uma estatística que ajuda medir a performance e re
 </div>
 
 <img style="width:700px;" src="img/faze-clan-coldzera-iem-katowice-2020.jpg">
+<br>
+<h1>Análise de todos os jogadores</h1>
 
+<h4>Top 10 jogadores com o kd mais alto</h4>
+<img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/geral%20kd.png">
+<br>
+<h4>Top 5 jogadores com kd diff mais alto</h4>
+<img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/geraldiff.png">
+<br>
+<h4>Top 1o jogadores com o rating mais alto</h4>
+<img src="https://github.com/ws-silva/analise-jogadores/blob/main/img/geralrating.png">
+<br>
+<h4>Jogador destaque :</h4>
+
+
+<div style="font-size: 25px;">
+<p>nome: Rafael Costa(saffee)</p><br>
+<p>nick: saffee</p><br>
+<p>kd: 1° lugar</p><br>
+<p>rating: 1° lugar</p><br>
+<p>hltv(perfil completo): <a href="https://www.hltv.org/player/18835/saffee#tab-infoBox">hltv saffe</a></p><br>
+<p>observação: Jogador novo e sem muitos títitulos mas com números altos podendo ser uma grande promessa</p><br>
+</div>
+
+<img style="width:400px" src="img/painsafe.jpg">
